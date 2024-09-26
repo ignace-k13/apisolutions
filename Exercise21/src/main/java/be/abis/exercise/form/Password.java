@@ -1,4 +1,4 @@
-package be.abis.exercise.dto;
+package be.abis.exercise.form;
 
 public class Password {
 
